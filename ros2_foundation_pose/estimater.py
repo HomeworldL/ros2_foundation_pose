@@ -8,6 +8,7 @@
 
 
 from ros2_foundation_pose.Utils import *
+from ros2_foundation_pose.Utils import erode_depth
 # from datareader import *
 import itertools
 from ros2_foundation_pose.learning.training.predict_score import *
